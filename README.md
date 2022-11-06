@@ -24,3 +24,9 @@ Os detalhes a cerca de cada etapa e explicações podem ser lidas a partir dos s
 ## Artigo
 + [Artigo publicado no Compute On the Beach](https://github.com/doxdank/HAM-10000-TF-2021-UNIVALI/blob/master/Artigos/TTTC3_DERICKABREUMONTAGNA.pdf).
 
+## Videos
++ [Previa Proposta](https://youtu.be/nb2rl2WNDM0).
++ [Previa Seminario Melo](https://youtu.be/CifiW2aIT78).
++ [Apresentação TTC II + Comentários da Banca](https://youtu.be/zsCw8bAtbFI).
++ [PIBITI](https://youtu.be/TGZJLaeCQlk).
++ [Apresentação TTC III + Comentários da Banca + Decisão da Banca](https://youtu.be/NEUdubxxoGg).
