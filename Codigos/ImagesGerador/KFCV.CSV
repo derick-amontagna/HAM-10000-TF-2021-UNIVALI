@@ -1,0 +1,13 @@
+params;pred;model
+14.3;79.89;DenseNet169
+20.2;79.30;DenseNet201
+9.2;78.16;EfficientNetB2
+5.3;77.54;EfficientNetB0
+8;77.03;DenseNet121
+55.9;76.88;InceptionResNetV2
+22.9;76.20;Xception
+7.8;76.15;EfficientNetB1
+44.7;75.64;ResNet101V2
+25.6;75.53;ResNet50V2
+23.8;74.63;InceptionV3
+60.4;73.32;ResNet152V2
